@@ -35,3 +35,12 @@ Java • SQL • JavaScript • HTML • CSS
 ADS
 FIAP — Java Fundamentos
 ...
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovicmendes&layout=compact&langs_count=5&title_color=00ff66&text_color=ffffff&bg_color=0d1117&hide_border=true"
+    height="180"
+  />
+</p>
+
+## Contato
+E-mail: joao.maldonado112@gmail.com
